@@ -9,9 +9,9 @@ Sorting:
   But if you are intereseted you can see how sort works:
   
   Basically Sorting algo can be categorized into followings:
-   1. Bad Sorting Algo:\n
-      a) Bubble Sort\n
-      b) Slow Sort\n
+   1. Bad Sorting Algo:
+      a) Bubble Sort
+      b) Slow Sort
    
    2. Basic Sort Algo:
       a) Insertion Sort
