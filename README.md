@@ -5,12 +5,13 @@ https://medium.com/@lovekeshbhagat23/ios-protocols-equatable-comparable-b85998fc
 
 
 Sorting:
-  This is a fun to see how sorting Algo work to sort array. Generally we use Swift inbuilt sort() algo. But if you are intereseted you can see how sort works:
+  This is a fun to see how sorting Algo work to sort array. Generally we use Swift inbuilt sort() algo.
+  But if you are intereseted you can see how sort works:
   
   Basically Sorting algo can be categorized into followings:
-   1. Bad Sorting Algo:
-      a) Bubble Sort
-      b) Slow Sort
+   1. Bad Sorting Algo:\n
+      a) Bubble Sort\n
+      b) Slow Sort\n
    
    2. Basic Sort Algo:
       a) Insertion Sort
