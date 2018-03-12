@@ -6,5 +6,6 @@
         <page name='Search Algo'/>
         <page name='Equatable'/>
         <page name='Comparable'/>
+        <page name='Bubble Sort'/>
     </pages>
 </playground>
