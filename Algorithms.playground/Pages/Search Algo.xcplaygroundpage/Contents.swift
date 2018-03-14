@@ -45,7 +45,7 @@ func binarySeachtTarget() {
         }
     }
     defer {
-        print(targetIndex)
+       
     }
 }
 
