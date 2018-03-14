@@ -8,5 +8,6 @@
         <page name='Comparable'/>
         <page name='Bubble Sort'/>
         <page name='Insertion Sort'/>
+        <page name='Factorials'/>
     </pages>
 </playground>
