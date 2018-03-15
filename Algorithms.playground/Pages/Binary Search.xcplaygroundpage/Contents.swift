@@ -39,4 +39,4 @@ func binarySearch(target: Int) -> (Bool, Int?) {
     return (false, nil)
 }
 
-binarySearch(target: 89)
+binarySearch(target: 10)
