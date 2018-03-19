@@ -12,5 +12,6 @@
         <page name='Binary Search'/>
         <page name='Sorting all array elements except one'/>
         <page name='Selection Sort'/>
+        <page name='Brute-First String Search Algo'/>
     </pages>
 </playground>
