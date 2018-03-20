@@ -12,5 +12,7 @@
         <page name='Binary Search'/>
         <page name='Sorting all array elements except one'/>
         <page name='Selection Sort'/>
+        <page name='Quick Sort'/>
+        <page name='Find Palidrome'/>
     </pages>
 </playground>
