@@ -12,7 +12,15 @@
         <page name='Binary Search'/>
         <page name='Sorting all array elements except one'/>
         <page name='Selection Sort'/>
+<<<<<<< HEAD
+        <page name='Quick Sort'/>
+        <page name='Find Palidrome'/>
+=======
         <page name='Brute-First String Search Algo'/>
+<<<<<<< HEAD
         <page name='Move All zeros to last'/>
+=======
+>>>>>>> 7b3c03332972ce6d8f858d5c9478b6b6c04b7ca0
+>>>>>>> 8c556223941bf3801c64f2d7da80f015053cf67b
     </pages>
 </playground>
