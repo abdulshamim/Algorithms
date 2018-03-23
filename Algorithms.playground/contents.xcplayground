@@ -13,5 +13,6 @@
         <page name='Sorting all array elements except one'/>
         <page name='Selection Sort'/>
         <page name='Brute-First String Search Algo'/>
+        <page name='Move All zeros to last'/>
     </pages>
 </playground>
