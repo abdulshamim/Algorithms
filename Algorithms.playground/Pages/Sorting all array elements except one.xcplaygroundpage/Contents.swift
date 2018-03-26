@@ -3,7 +3,7 @@
 import Foundation
 import UIKit
 
-let input = [10, 4, 11, 7, 6, 20]
+var input = [10, 4, 11, 7, 6, 20]
 
 //let output = [4, 6, 11, 7, 10, 20]
 
@@ -21,26 +21,18 @@ func storeInNewArray() {
         }
     }
     
-    for i in 0..<newArray.count-1 {
-        for j in 0..<newArray.count-i-1{
-            if newArray[j+1] < newArray[j]{
-                newArray.swapAt(j+1, j)
+    for i in 0..<input.count-1 {
+      
+        for j in 0..<input.count-index-1{
+            if input[j+1] < input[j]{
+                input.swapAt(j+1, j)
                // swapNumber(first: &newArray[j+1], second: &newArray[j])
             }
         }
     }
     
-    for i in targetIndex..<newArray.count{
-        print(newArray[i])
-      //  print(i)
-        //newArray =
-    }
-    
-    newArray.insert(targetedValue, at: targetIndex)
-   
-//    print(targetIndex)
-//    print(targetedValue)
-    print(newArray)
+    input.insert(targetedValue, at: targetIndex)
+    print(input)
 }
 
 

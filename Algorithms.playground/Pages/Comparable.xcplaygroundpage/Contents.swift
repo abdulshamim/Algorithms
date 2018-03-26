@@ -18,7 +18,7 @@ struct Student: Comparable {
     
 
     static func <(lhs: Student, rhs: Student) -> Bool {
-        if lhs.rollNumber! < rhs.rollNumber!{
+        if lhs.rollNumber! < rhs.rollNumber! {
             return true
         } else {
             return false
