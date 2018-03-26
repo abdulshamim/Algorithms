@@ -36,6 +36,7 @@ func storeInNewArray() {
         //newArray =
     }
     
+    newArray.insert(targetedValue, at: targetIndex)
    
 //    print(targetIndex)
 //    print(targetedValue)
